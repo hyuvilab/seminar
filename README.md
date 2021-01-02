@@ -17,3 +17,5 @@ Lab seminar every wednesday at 15:00
 |                  | [SRFlow: Learning the Super-Resolution Space with Normalizing Flow](https://arxiv.org/pdf/2006.14200.pdf) | ECCV20 Spotlight | SB.Park | |
 | Graph Neural Networks          |       [왼쪽 링크에서 흥미로운 논문 골라서 공부해주세요 :)](https://github.com/thunlp/GNNPapers)      |   |  | |
 |             | [Learning Region features for Object Detection](https://arxiv.org/pdf/1803.07066.pdf)  | ECCV 2018 | JS.Kim |  |
+|             | [Graph U-Nets](http://proceedings.mlr.press/v97/gao19a/gao19a.pdf)  | ICML19 | EH.Lee |  |
+
