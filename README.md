@@ -11,7 +11,7 @@ Lab seminar every wednesday at 15:00
 |       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
 |:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
 | Graph Neural Networks          |       [왼쪽 링크에서 흥미로운 논문 골라서 공부해주세요 :)](https://github.com/thunlp/GNNPapers)      |   |  | |
-|             | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | ICLR 2017 | Jinsu Yoo | 01.12 | [Click](./presentations/2020WinterStudy/Situation Recognition with Graph Neural Networks_Jisu Kim.pdf) |
+|             | [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) | ICLR 2017 | Jinsu Yoo | 01.12 | [Click](./presentations/2020WinterStudy/) |
 |             | [Situation Recognition with Graph Neural Networks](https://arxiv.org/pdf/1708.04320.pdf)  | ICCV 2017 | JS.Kim | 01.15  ||
 |             | [Graph U-Nets](http://proceedings.mlr.press/v97/gao19a/gao19a.pdf)  | ICML19 | EH.Lee | 01.19  |
 | contextual loss |       [The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/pdf/1803.02077.pdf)      |  ECCV18 oral | SH.Lee | 01.22 | |
