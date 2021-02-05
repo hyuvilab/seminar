@@ -18,5 +18,5 @@ Lab seminar every wednesday at 15:00
 |                  | [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://arxiv.org/pdf/2003.12267.pdf) | CVPR20 oral | Ali | 01.26 |  [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2020WinterStudy/presentation.pdf)
 |                  |       [Cross-domain Correspondence Learning for Exemplar-based Image Translation](https://arxiv.org/pdf/2004.05571.pdf)      |  CVPR20 oral | JH.Kim | 01.29 |  [Click](./presentations/2020WinterStudy/CoCosNetslides.pdf) |
 | normalizing flow |       [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf)      |  NeurIPS18 | JM.Kim | 02.02 | [Click](./presentations/2020WinterStudy/glow.pdf) |
-|                  | [SRFlow: Learning the Super-Resolution Space with Normalizing Flow](https://arxiv.org/pdf/2006.14200.pdf) | ECCV20 Spotlight | SB.Park | 02.05 | |
+|                  | [SRFlow: Learning the Super-Resolution Space with Normalizing Flow](https://arxiv.org/pdf/2006.14200.pdf) | ECCV20 Spotlight | Seobin Park | 02.05 | [Click](./presentations/2020WinterStudy/SRFlow_ppt.pdf) |
 
