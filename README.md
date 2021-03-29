@@ -20,3 +20,13 @@ Lab seminar every wednesday at 15:00
 | normalizing flow |       [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf)      |  NeurIPS18 | JM.Kim | 02.02 | [Click](./presentations/2020WinterStudy/glow.pdf) |
 |                  | [SRFlow: Learning the Super-Resolution Space with Normalizing Flow](https://arxiv.org/pdf/2006.14200.pdf) | ECCV20 Spotlight | Seobin Park | 02.05 | [Click](./presentations/2020WinterStudy/SRFlow_ppt.pdf) |
 |                  | [Uniformed students: student-teacher anomaly detection with discriminative latent embeddings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf) | CVPR 2020 | Kyeonga Kim | 02.09 | [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2020WinterStudy/S_T_AnomalyDetection.pdf) |
+
+
+
+# 2021 spring semester online study
+
+Lab Seminar every wednesday at 17:00 
+
+|       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
+|:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
+| Normalizing Flow | [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf) | NeurIPS18 | DJ.Han | 03.24 | [Click](./presentations/2021SpringStudy/Glow.pdf) |
