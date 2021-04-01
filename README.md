@@ -30,3 +30,5 @@ Lab Seminar every wednesday at 17:00
 |       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
 |:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
 | Normalizing Flow | [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf) | NeurIPS18 | DJ.Han | 03.24 | [Click](./presentations/2021SpringStudy/Glow.pdf) |
+| Metric based meta learning | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)<br>[Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)<br>[Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/pdf/1711.06025.pdf) | NeurIPS16<br>NeurIPS17<br>CVPR18 | DG.Jung | 03.31 | [Click](./presentations/2021SpringStudy/Metric_based_meta_learning.pdf) |
+
