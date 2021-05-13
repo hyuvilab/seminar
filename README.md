@@ -32,5 +32,6 @@ Lab Seminar every wednesday at 16:30
 | Normalizing Flow | [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf) | NeurIPS18 | DJ.Han | 03.24 | [Click](./presentations/2021SpringStudy/Glow.pdf) |
 | Metric based meta learning | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)<br>[Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)<br>[Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/pdf/1711.06025.pdf) | NeurIPS16<br>NeurIPS17<br>CVPR18 | DG.Jung | 03.31 | [Click](./presentations/2021SpringStudy/Metric%20based%20meta%20learning.pdf) |
 | Keypoints and Deformating | [First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196) | NeurIPS19 | DH.Kim | 04.07 | [Click](./presentations/2021SpringStudy/FOMM.pdf) |
-| Object Detection | Detection Overview || DJ.Kim | 04.14 | [Click](./presentations/2021SpringStudy/Detection%20Overview.pdf)
+| Object Detection | Detection Overview || DJ.Kim | 04.14 | [Click](./presentations/2021SpringStudy/Detection%20Overview.pdf) |
+| Image Inpainting | [Image Inpainting / EdgeConnect : Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf) | CVPR2019 | Kyeonga Kim | 05.12 | [Click](./presentations/2021SpringStudy/ImageInpainting.pdf) |
 
