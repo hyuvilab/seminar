@@ -37,3 +37,4 @@ Lab Seminar every wednesday at 16:30
 | Image Inpainting | [EdgeConnect : Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf) | CVPR2019 | Kyeonga Kim | 05.12 | [Click](./presentations/2021SpringStudy/ImageInpainting.pdf) |
 | Super Resolution | Image Super-Resolution: On its technical detail and subtasks || Seobin Park | 05.20 | [Click](./presentations/2021SpringStudy/super-resolution.pdf) |
 | Super Resolution | [RCAN : Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf) | ECCV2018 | DJ.Han | 05.26 | [Click](./presentations/2021SpringStudy/RCAN.pdf) |
+| Object Detection | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) | CVPR2017 | DJ.Kim | 06.23 | [Click](./presentations/2021SpringStudy/Focal_Loss_Retinanet.pdf) |
