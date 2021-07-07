@@ -22,6 +22,8 @@ Lab seminar every wednesday at 15:00
 |                  | [Uniformed students: student-teacher anomaly detection with discriminative latent embeddings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf) | CVPR 2020 | Kyeonga Kim | 02.09 | [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2020WinterStudy/S_T_AnomalyDetection.pdf) |
 
 
+<br/>
+<br/>
 
 # 2021 spring semester online study
 
@@ -39,3 +41,22 @@ Lab Seminar every wednesday at 16:30
 | Super Resolution | [RCAN : Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf) | ECCV2018 | DJ.Han | 05.26 | [Click](./presentations/2021SpringStudy/RCAN.pdf) |
 | Object Detection | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) | CVPR2017 | DJ.Kim | 06.23 | [Click](./presentations/2021SpringStudy/Focal_Loss_Retinanet.pdf) |
 | Self-Attention | [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | NIPS 2019| Kyeonga Kim | 06.30 | [Click](./presentations/2021SpringStudy/stand-alone_self-attention.pdf) |
+
+
+
+
+<br/>
+<br/>
+
+# 2021 Summer Online Seminar
+
+Every thursday at 16:00.
+
+| Date |                            Paper & Link                           | Presenter |  Slide |
+|:----:|:-----------------------------------------------------------------:|:---------:| :----:|
+| 07.08 | [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_GLEAN_Generative_Latent_Bank_for_Large-Factor_Image_Super-Resolution_CVPR_2021_paper.pdf) | Seobin Park |  [Click]() |
+| 07.08 | [Positional Encoding as Spatial Inductive Bias in GANs](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Positional_Encoding_As_Spatial_Inductive_Bias_in_GANs_CVPR_2021_paper.pdf) | Dajin Han |  [Click]() |
+
+
+
+
