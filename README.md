@@ -57,7 +57,7 @@ Every thursday at 16:00.
 | 07.08 | [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_GLEAN_Generative_Latent_Bank_for_Large-Factor_Image_Super-Resolution_CVPR_2021_paper.pdf) | Seobin Park |  [Click](./presentations/2021_Summer_Seminar/glean_seobinpark.pdf) |
 | 07.08 | [Positional Encoding as Spatial Inductive Bias in GANs](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Positional_Encoding_As_Spatial_Inductive_Bias_in_GANs_CVPR_2021_paper.pdf) | Dajin Han |  [Click](./presentations/2021_Summer_Seminar/Positional_Encoding_GAN_MS-PIE.pdf) |
 | 07.15 | [Self-Supervised Scene De-occlusion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhan_Self-Supervised_Scene_De-Occlusion_CVPR_2020_paper.pdf) | Seunghwan Lee |  [Click](./presentations/2021_Summer_Seminar/deocclusion_shlee.pdf) |
-| 07.22 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/pdf/2003.13659.pdf) | Kyeonga Kim |  [Click](./presentations/2021_Summer_Seminar/Deep_Generative_Prior.pdf) |
+| 07.22 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/pdf/2003.13659.pdf) | Kyeonga Kim |  [Click](./presentations/2021_Summer_Seminar/Deep _Generative_Prior.pdf) |
 
 
 
