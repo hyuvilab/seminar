@@ -58,6 +58,8 @@ Every thursday at 16:00.
 | 07.08 | [Positional Encoding as Spatial Inductive Bias in GANs](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Positional_Encoding_As_Spatial_Inductive_Bias_in_GANs_CVPR_2021_paper.pdf) | Dajin Han |  [Click](./presentations/2021_Summer_Seminar/Positional_Encoding_GAN_MS-PIE.pdf) |
 | 07.15 | [Self-Supervised Scene De-occlusion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhan_Self-Supervised_Scene_De-Occlusion_CVPR_2020_paper.pdf) | Seunghwan Lee |  [Click](./presentations/2021_Summer_Seminar/deocclusion_shlee.pdf) |
 | 07.22 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/pdf/2003.13659.pdf) | Kyeonga Kim |  [Click](./presentations/2021_Summer_Seminar/Deep_Generative_Prior.pdf) |
+| 08.05 | [Robust Reference-based Super-Resolution via C2-Matching](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Robust_Reference-Based_Super-Resolution_via_C2-Matching_CVPR_2021_paper.pdf) | Donggoo Jung |  [Click](./presentations/2021SpringStudy/c2_matching.pdf) |
+
 
 
 
