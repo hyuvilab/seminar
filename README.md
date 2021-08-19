@@ -62,6 +62,3 @@ Every thursday at 16:00.
 | 08.05 | [Robust Reference-based Super-Resolution via C2-Matching](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Robust_Reference-Based_Super-Resolution_via_C2-Matching_CVPR_2021_paper.pdf) | Donggoo Jung |  [Click](./presentations/2021SpringStudy/c2_matching.pdf) |
 | 08.19 | [Self-Supervised Viewpoint Learning From Image Collections](https://https://arxiv.org/pdf/2004.01793.pdf) | Jisu Kim |  [Click](./presentations/2021_Summer_Seminar/Self-Supervised Viewpoint Learning From Image Collections.pdf) |
 
-
-
-
