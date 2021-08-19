@@ -60,7 +60,7 @@ Every thursday at 16:00.
 | 07.22 | [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation](https://arxiv.org/pdf/2003.13659.pdf) | Kyeonga Kim |  [Click](./presentations/2021_Summer_Seminar/Deep_Generative_Prior.pdf) |
 | 07.29 | [Learning to Track Instances without Video Annotations](https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Learning_to_Track_Instances_without_Video_Annotations_CVPR_2021_paper.pdf) | Dongjin Kim |  [Click](./presentations/2021_Summer_Seminar/Learning_to_Track_Instances_without%20Video_Annotations.pdf) |
 | 08.05 | [Robust Reference-based Super-Resolution via C2-Matching](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Robust_Reference-Based_Super-Resolution_via_C2-Matching_CVPR_2021_paper.pdf) | Donggoo Jung |  [Click](./presentations/2021SpringStudy/c2_matching.pdf) |
-| 08.19 | [Self-Supervised Viewpoint Learning From Image Collections](https://https://arxiv.org/pdf/2004.01793.pdf) | Jisu Kim |  [Click](./presentations/2021_Summer_Seminar/Self-Supervised Viewpoint Learning From Image Collections.pdf) |
+| 08.19 | [Self-Supervised Viewpoint Learning From Image Collections](https://https://arxiv.org/pdf/2004.01793.pdf) | Jisu Kim |  [Click](./presentations/2021_Summer_Seminar/Self-Supervised Viewpoint Learning From Image Collections.pdf)
 
 
 
