@@ -62,6 +62,5 @@ Every thursday at 16:00.
 | 08.05 | [Robust Reference-based Super-Resolution via C2-Matching](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Robust_Reference-Based_Super-Resolution_via_C2-Matching_CVPR_2021_paper.pdf) | Donggoo Jung |  [Click](./presentations/2021SpringStudy/c2_matching.pdf) |
 | 08.05 | [VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models](https://arxiv.org/pdf/2010.00654.pdf) | Daehyun Kim |  [Click](./presentations/2021_Summer_Seminar/VAEBM.pdf) |
 | 08.12 | [TSIT: A Simple and Versatile Framework for Image-to-Image Translation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480205.pdf) | Eunhye Lee |  [Click](./presentations/2021_Summer_Seminar/tsit_presentation.pdf) |
-| 08.12 | [Side-Aware Boundary Localization for More Precise Object Detection](https://arxiv.org/pdf/1912.04260.pdf) | JaeHong Kim |  [Click](./presentations/2021_Summer_Seminar/Side-Aware Boundary Localization for More Precise Object Detection (1).pdf) |
 | 08.19 | [Self-Supervised Viewpoint Learning From Image Collections](https://arxiv.org/pdf/2004.01793.pdf) | Jisu Kim |  [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2021_Summer_Seminar/Self-Supervised%20Viewpoint%20Learning%20From%20Image%20Collections.pdf) |
 
