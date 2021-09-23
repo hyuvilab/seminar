@@ -31,14 +31,14 @@ Lab Seminar every wednesday at 16:30
 
 |       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
 |:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
-| Normalizing Flow | [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf) | NeurIPS18 | DJ.Han | 03.24 | [Click](./presentations/2021SpringStudy/Glow.pdf) |
+| Normalizing Flow | [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039.pdf) | NeurIPS18 | Dajin Han | 03.24 | [Click](./presentations/2021SpringStudy/Glow.pdf) |
 | Metric based meta learning | [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf)<br>[Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf)<br>[Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/pdf/1711.06025.pdf) | NeurIPS16<br>NeurIPS17<br>CVPR18 | DG.Jung | 03.31 | [Click](./presentations/2021SpringStudy/Metric%20based%20meta%20learning.pdf) |
 | Keypoints and Deformating | [First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196) | NeurIPS19 | DH.Kim | 04.07 | [Click](./presentations/2021SpringStudy/FOMM.pdf) |
 | Object Detection | Detection Overview || DJ.Kim | 04.14 | [Click](./presentations/2021SpringStudy/Detection%20Overview.pdf) |
-| RNN, Encoder Decoder, Transformer | RNN Overview || DJ.Han | 04.28 | [Click](./presentations/2021SpringStudy/RNN_Overview) |
+| RNN, Encoder Decoder, Transformer | RNN Overview || Dajin Han | 04.28 | [Click](./presentations/2021SpringStudy/RNN_Overview) |
 | Image Inpainting | [EdgeConnect : Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf) | CVPR2019 | Kyeonga Kim | 05.12 | [Click](./presentations/2021SpringStudy/ImageInpainting.pdf) |
 | Super Resolution | Image Super-Resolution: On its technical detail and subtasks || Seobin Park | 05.20 | [Click](./presentations/2021SpringStudy/super-resolution.pdf) |
-| Super Resolution | [RCAN : Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf) | ECCV2018 | DJ.Han | 05.26 | [Click](./presentations/2021SpringStudy/RCAN.pdf) |
+| Super Resolution | [RCAN : Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/pdf/1807.02758.pdf) | ECCV2018 | Dajin Han | 05.26 | [Click](./presentations/2021SpringStudy/RCAN.pdf) |
 | Object Detection | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) | CVPR2017 | DJ.Kim | 06.23 | [Click](./presentations/2021SpringStudy/Focal_Loss_Retinanet.pdf) |
 | Self-Attention | [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | NIPS 2019| Kyeonga Kim | 06.30 | [Click](./presentations/2021SpringStudy/stand-alone_self-attention.pdf) |
 
