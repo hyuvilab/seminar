@@ -1,12 +1,6 @@
-# Seminar
+# 2020 Winter Vacation Online Seminar
 
-Lab seminar every wednesday at 15:00
-
-
-
-# 2020 winter vacation online study
-
-
+Lab seminar every wednesday at 15:00.
 
 |       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
 |:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
@@ -21,13 +15,13 @@ Lab seminar every wednesday at 15:00
 |                  | [SRFlow: Learning the Super-Resolution Space with Normalizing Flow](https://arxiv.org/pdf/2006.14200.pdf) | ECCV20 Spotlight | Seobin Park | 02.05 | [Click](./presentations/2020WinterStudy/SRFlow_ppt.pdf) |
 |                  | [Uniformed students: student-teacher anomaly detection with discriminative latent embeddings](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bergmann_Uninformed_Students_Student-Teacher_Anomaly_Detection_With_Discriminative_Latent_Embeddings_CVPR_2020_paper.pdf) | CVPR 2020 | Kyeonga Kim | 02.09 | [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2020WinterStudy/S_T_AnomalyDetection.pdf) |
 
-
 <br/>
 <br/>
 
-# 2021 spring semester online study
 
-Lab Seminar every wednesday at 16:30 
+# 2021 Spring Semester Offline study
+
+Lab study every wednesday at 16:30.
 
 |       Topic      |                            Paper & Link                           | Remark | Presenter | Date | Slide |
 |:----------------:|:-----------------------------------------------------------------:|:------:|:---------:|:----:| :----:|
@@ -42,15 +36,13 @@ Lab Seminar every wednesday at 16:30
 | Object Detection | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) | CVPR2017 | DJ.Kim | 06.23 | [Click](./presentations/2021SpringStudy/Focal_Loss_Retinanet.pdf) |
 | Self-Attention | [Stand-Alone Self-Attention in Vision Models](https://arxiv.org/pdf/1906.05909.pdf) | NIPS 2019| Kyeonga Kim | 06.30 | [Click](./presentations/2021SpringStudy/stand-alone_self-attention.pdf) |
 
-
-
-
 <br/>
 <br/>
 
-# 2021 Summer Online Seminar
 
-Every thursday at 16:00.
+# 2021 Summer Vacation Online Seminar
+
+Lab seminar every thursday at 16:00.
 
 | Date |                            Paper & Link                           | Presenter |  Slide |
 |:----:|:-----------------------------------------------------------------:|:---------:| :----:|
@@ -65,4 +57,17 @@ Every thursday at 16:00.
 | 08.12 | [Side-Aware Boundary Localization for More Precise Object Detection](https://arxiv.org/pdf/1912.04260.pdf) | Jaehong Kim |  [Click](https://github.com/hyuvilab/seminar/blob/70ab25662637cc51f97b86783139656f55660067/presentations/2021_Summer_Seminar/Side-Aware%20Boundary%20Localization%20for%20More%20Precise%20Object%20Detection%20(1).pdf) |
 | 08.19 | [Self-Supervised Viewpoint Learning From Image Collections](https://arxiv.org/pdf/2004.01793.pdf) | Jisu Kim |  [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2021_Summer_Seminar/Self-Supervised%20Viewpoint%20Learning%20From%20Image%20Collections.pdf) |
 | 08.19 | [Incorporating Convolution Designs into Visual Transformers](https://arxiv.org/abs/2103.11816) | Sujin Kim |  [Click](https://github.com/hyuvilab/seminar/blob/master/presentations/2021_Summer_Seminar/Incorporating_Convolution_Designs_into_Visual_Transformers.pdf) |
+
+<br/>
+<br/>
+
+
+# 2021 Autumn Semester Offline Study
+
+Lab seminar every thursday at 16:00.
+
+| Date |                            Paper & Link                           | Presenter |  Slide |
+|:----:|:-----------------------------------------------------------------:|:---------:| :----:|
+| 09.23 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) | Dajin Han |  [Click](./presentations/2021AutumnStudy/ViT.pdf) |
+
 
