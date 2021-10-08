@@ -69,5 +69,5 @@ Lab seminar every thursday at 16:00.
 | Date |                            Paper & Link                           | Presenter |  Slide |
 |:----:|:-----------------------------------------------------------------:|:---------:| :----:|
 | 09.23 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) | Dajin Han |  [Click](./presentations/2021AutumnStudy/ViT.pdf) |
-
+| 10.07 | [Bundled Camera Paths for Video Stabilization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Stabilization_SIGGRAPH13.pdf) | Eun Woo Im |  [Click](https://github.com/hyuvilab/seminar/files/7309558/Bundled.Camera.Paths.for.Video.Stabilization.and.Homography.pdf)
 
