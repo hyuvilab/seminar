@@ -71,4 +71,4 @@ Lab seminar every thursday at 16:00.
 | 09.23 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) | Dajin Han |  [Click](./presentations/2021AutumnStudy/ViT.pdf) |
 | 09.30 | [A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP](https://arxiv.org/pdf/2108.13002.pdf) | Dongjin Kim |  [Click](./presentations/2021AutumnStudy/A_Battle_of_Network_Structures.pdf) |
 | 10.07 | [Bundled Camera Paths for Video Stabilization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Stabilization_SIGGRAPH13.pdf) | Eun Woo Im |  [Click](./presentations/2021AutumnStudy/Bundled_Camera_Paths_for_Video_Stabilization_and_Homography.pdf)
-
+| 11.25 | [Bundled Camera Paths for Video Stabilization](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) | Eun Woo Im |  [Click](./presentations/2021AutumnStudy/AdaTarget.pdf)
