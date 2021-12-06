@@ -72,5 +72,6 @@ Lab seminar every thursday at 16:00.
 | 09.30 | [A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP](https://arxiv.org/pdf/2108.13002.pdf) | Dongjin Kim |  [Click](./presentations/2021AutumnStudy/A_Battle_of_Network_Structures.pdf) |
 | 10.07 | [Bundled Camera Paths for Video Stabilization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Stabilization_SIGGRAPH13.pdf) | Eun Woo Im |  [Click](./presentations/2021AutumnStudy/Bundled_Camera_Paths_for_Video_Stabilization_and_Homography.pdf)
 | 10.21 | [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/SlowFast.pdf)
+| 11.04 | [Reanalysis Models] | Dajin Han | [Click](./presentations/2021AutumnStudy/ReAnalysis_Models.pdf)
 | 11.25 | [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) | Eun Woo Im |  [Click](./presentations/2021AutumnStudy/AdaTarget.pdf)
 | 12.02 | [Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm](https://arxiv.org/pdf/1808.00278) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/BiReal.pdf)
