@@ -75,3 +75,4 @@ Lab seminar every thursday at 16:00.
 | 11.04 | Reanalysis Models | Dajin Han | [Click](./presentations/2021AutumnStudy/ReAnalysis_Models.pdf)
 | 11.25 | [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) | Eun Woo Im |  [Click](./presentations/2021AutumnStudy/AdaTarget.pdf)
 | 12.02 | [Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm](https://arxiv.org/pdf/1808.00278) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/BiReal.pdf)
+| 1.06 | Complex Valued Neural Networks | Eun Woo Im | [Click](./presentations/2021AutumnStudy/CVNN.pdf)
