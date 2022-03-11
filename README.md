@@ -10,8 +10,9 @@ Lab seminar every thursday at 16:00.
 | 10/21 | [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/SlowFast.pdf)
 | 11/04 | Reanalysis Models | Dajin Han | [Click](./presentations/2021AutumnStudy/ReAnalysis_Models.pdf)
 | 11/25 | [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) | Eunwoo Im |  [Click](./presentations/2021AutumnStudy/AdaTarget.pdf)
-| 12/02 | [Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm](https://arxiv.org/pdf/1808.00278) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/BiReal.pdf)
+| 12/02 | [Bi-Real Net](https://arxiv.org/pdf/1808.00278) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/BiReal.pdf)
 | 01/06 | Complex Valued Neural Networks | Eunwoo Im | [Click](./presentations/2021AutumnStudy/CVNN.pdf)
+| 01/14 | [Swin Transformer](https://arxiv.org/pdf/2103.14030) | Jihun Kim | [Click](./presentations/2021AutumnStudy/Swin_Transformer.pdf)
 
 <br/>
 <br/>
