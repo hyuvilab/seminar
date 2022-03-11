@@ -9,8 +9,12 @@ Lab seminar every thursday at 16:00.
 | 10/07 | [Bundled Camera Paths for Video Stabilization](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Stabilization_SIGGRAPH13.pdf) | Eunwoo Im |  [Click](./presentations/2021AutumnStudy/Bundled_Camera_Paths_for_Video_Stabilization_and_Homography.pdf)
 | 10/21 | [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/SlowFast.pdf)
 | 11/04 | Reanalysis Models | Dajin Han | [Click](./presentations/2021AutumnStudy/ReAnalysis_Models.pdf)
+| 11/11 | [NeRF](https://arxiv.org/pdf/2003.08934) | Dongjin Kim | [Click](./presentations/2021AutumnStudy/NeRF.pdf)
+| 11/18 | [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455) | Jihoon Nam | [Click](./presentations/2021AutumnStudy/Pose_Estimation.pdf)
 | 11/25 | [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) | Eunwoo Im |  [Click](./presentations/2021AutumnStudy/AdaTarget.pdf)
 | 12/02 | [Bi-Real Net](https://arxiv.org/pdf/1808.00278) | Jihun Kim |  [Click](./presentations/2021AutumnStudy/BiReal.pdf)
+| 12/10 | Introduction to Normalizing Flows | Dongjin Kim | [Click](./presentations/2021AutumnStudy/NormFlow.pdf)
+| 12/30 | [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377) | Jihoon Nam | [Click](./presentations/2021AutumnStudy/MAE.pdf)
 | 01/06 | Complex Valued Neural Networks | Eunwoo Im | [Click](./presentations/2021AutumnStudy/CVNN.pdf)
 | 01/14 | [Swin Transformer](https://arxiv.org/pdf/2103.14030) | Jihun Kim | [Click](./presentations/2021AutumnStudy/Swin_Transformer.pdf)
 
@@ -42,7 +46,7 @@ Lab seminar every thursday at 16:00.
 
 
 
-# 2021 Spring Semester Offline study
+# 2021 Spring Semester Offline Study
 
 Lab study every wednesday at 16:30.
 
